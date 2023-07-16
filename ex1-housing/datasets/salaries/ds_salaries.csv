@@ -3620,7 +3620,6 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2021,EN,FT,Data Engineer,72500,USD,72500,US,100,US,L
 2021,SE,FT,Machine Learning Engineer,185000,USD,185000,US,50,US,L
 2021,MI,PT,Data Engineer,59000,EUR,69741,NL,100,NL,L
-2021,EN,FT,Research Scientist,100000,USD,100000,JE,0,CN,L
 2021,MI,FT,Data Engineer,112000,USD,112000,US,100,US,L
 2020,SE,FT,Machine Learning Engineer,150000,USD,150000,US,50,US,L
 2021,SE,FT,Data Scientist,180000,TRY,20171,TR,50,TR,L
